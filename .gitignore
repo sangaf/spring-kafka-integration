@@ -1,0 +1,42 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle
+gradlew
+gradlew.bat
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+#gradlew*
+#/gradle
+gradle/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/bin/
+
+out/
+
+
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+
+private/
